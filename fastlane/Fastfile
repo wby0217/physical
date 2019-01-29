@@ -1,0 +1,60 @@
+default_platform :ios
+
+lane :testsetting do |options|
+
+  if options[:username]
+    fl_username = options[:username]
+  else
+    puts '请传入username'
+    next
+  end
+
+  if options[:identifier]
+    fl_app_identifier = options[:identifier]
+  else
+    puts '请传入identifier'
+    next
+  end
+
+  if options[:appname]
+    fl_app_name = options[:appname]
+  else
+    puts '请传入identifier'
+    next
+  end
+
+
+  fl_git_url = 'https://gitlab.kosun.net/iOS-Team/Certificates.git'
+
+  produce(
+    username: fl_username,
+    app_identifier: fl_app_identifier,
+    app_name: fl_app_name,
+    skip_itc: true
+  )
+
+  register_devices(
+    devices: {
+      "Micheal" => "f345d23188a44b4df1d213215f18920f7c241e47",
+      "iPhone 6s" => "655075e7bea6a2c0298f220f9fa5879faaa67139",
+      "iPhone X" => "0e4929d5060823e368d59a8abe3d00828d7f598c",
+      "iPhone 6 Plus" => "88a1f116da8600a1308ef707b6283ba8762e4b87",
+      "Linny" => "ecfe6d812ce0e25079661ac443b1041b36424d79",
+      "iPhone 6" => "b91588170eac719acc2204b773e9725bdbcfad4c",
+      "iPhone 5s" => "84d78675161a53063bad7f852fd869042f8e8693",
+      "iPhone 6" => "5376865f0a3ca885acecec66ada37b3f961a9924"
+    },
+    username: fl_username,
+  )
+
+  match(
+    git_url: fl_git_url,
+    type: "development",
+    git_branch: fl_username,
+    app_identifier: fl_app_identifier,
+    username: fl_username,
+    force_for_new_devices: true,
+    platform: "ios",
+  )
+
+end

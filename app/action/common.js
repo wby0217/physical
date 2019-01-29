@@ -1,0 +1,1 @@
+import types from '../config/constants';import service from '../service';export const saveBankList =  (item) => {    console.log('saveBankList action', item);    return {        type: types.saveBankList,        filter: item    };};

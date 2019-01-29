@@ -1,0 +1,1 @@
+export const amountList = [    {name: '50元', value: 50},    {name: '100元', value: 100},    {name: '300元', value: 300},    {name: '500元', value: 500},    {name: '800元', value: 800},    {name: '1000元', value: 1000},    {name: '2000元', value: 2000},    {name: '3000元', value: 3000},];

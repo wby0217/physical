@@ -1,0 +1,129 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Description of what the lane does"
+
+  project_name="physical"
+
+  provision_file_name = Dir.glob("*.mobileprovision")[0]
+  mobileprovision_file_str = File.read(provision_file_name)
+  begin_index = mobileprovision_file_str.index('<?xml version="1.0" encoding="UTF-8"?>')
+  end_index = mobileprovision_file_str.index('</plist>')+8
+  sub_str = mobileprovision_file_str[begin_index...end_index]
+
+  tempfilename = File.join(Dir.tmpdir, "provision_temp.plist")
+  puts tempfilename
+  tempfile = File.new(tempfilename, "w")
+  tempfile.puts sub_str
+  tempfile.close
+  info_str = File.read(tempfile)
+  # puts info_str
+
+  mobileprovision_name = get_info_plist_value(path: tempfilename, key: "AppIDName")
+  team_id = get_info_plist_value(path: tempfilename, key: "TeamIdentifier")[0]
+  team_name_from_mobileprovision = get_info_plist_value(path: tempfilename, key: "TeamName")
+  codesigning_identity="iPhone Distribution: #{team_name_from_mobileprovision}"
+
+  File.delete(tempfilename)
+
+
+  lane :deal_with_file do |options|
+    puts mobileprovision_name
+    puts team_id
+    puts team_name_from_mobileprovision
+    puts codesigning_identity
+  end
+
+
+  lane :update_infoplist do |options|
+
+    if options[:subkey]
+      set_info_plist_value(
+        path: "#{project_name}/Info.plist",
+        key: options[:key],
+        subkey: options[:subkey],
+        value: options[:value]
+      )
+    else
+      set_info_plist_value(
+        path: "#{project_name}/Info.plist",
+        key: options[:key],
+        value: options[:value]
+      )
+    end
+
+  end
+
+  lane :update_url_scheme do |options|
+    update_info_plist(
+            plist_path: "#{project_name}/Info.plist",
+            block: lambda { |plist|
+              plist['CFBundleURLTypes'].each {|urlType|
+                if urlType == plist['CFBundleURLTypes'][0]
+                  urlSchemes = urlType['CFBundleURLSchemes']
+                  urlSchemes.map! {|urlScheme|
+                    if urlScheme.start_with?('com.')
+                      options[:scheme]
+                    else
+                      urlScheme
+                    end
+                  }
+                end
+              }
+            }
+    )
+  end
+
+
+  lane :enterprise do |options|
+
+    if options[:bundle_identifier] and options[:output_name]
+      update_app_identifier(
+        plist_path: "#{project_name}/Info.plist",
+        app_identifier: options[:bundle_identifier]
+      )
+
+      update_project_team(
+        path: "#{project_name}.xcodeproj",
+        teamid: team_id
+      )
+
+      update_project_provisioning(
+        xcodeproj: "#{project_name}.xcodeproj",
+        profile: "./fastlane/shenzhenyunxun.mobileprovision",
+        target_filter: "#{project_name}",
+        build_configuration: "Release"
+      )
+
+      gym(
+        codesigning_identity: codesigning_identity,
+        export_method: "enterprise",
+        export_options: {
+          provisioningProfiles: {
+            options[:bundle_identifier] => mobileprovision_name
+          }
+        },
+        xcargs: "PROVISIONING_PROFILE_SPECIFIER=#{mobileprovision_name}",
+        output_directory: "./ipas",
+        output_name: options[:output_name]
+      )
+
+    end
+
+  end
+end

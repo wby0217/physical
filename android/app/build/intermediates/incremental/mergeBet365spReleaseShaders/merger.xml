@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/bryan/MyWork/physical/android/app/src/main/shaders"/></dataSet><dataSet config="bet365sp"><source path="/Users/bryan/MyWork/physical/android/app/src/bet365sp/shaders"/></dataSet><dataSet config="release"><source path="/Users/bryan/MyWork/physical/android/app/src/release/shaders"/></dataSet><dataSet config="bet365spRelease"><source path="/Users/bryan/MyWork/physical/android/app/src/bet365spRelease/shaders"/></dataSet></merger>

@@ -1,0 +1,45 @@
+ext {
+    global = [
+            "CODE_PUSH_SERVER_URL" : "https://api.codepush2.com"
+    ]
+    physical = [
+            "applicationId": "com.physical.sports",
+            "API_SERVER": "https://sports-test1-frotend.kosun.net",
+            "CODE_PUSH_KEY": "XWd87zmGacxfA2kHJOo2AbHJVZnp6ksvOXqoq",
+            "UMENG_APPKEY" : "",
+            "UMENG_MESSAGE_SECRET" : "",
+            "JPUSH_KEY"    : "",
+            "APP_CHANNEL"  : "default",
+            "SIGN_KEY"     : "JU076TFU-C483929E-2BDF8E9F-76TG45LJ"
+    ]
+    wlxe = [
+            "applicationId": "com.physical.wlxe",
+            "API_SERVER": "https://api-wlxe.kosun.net",
+            "CODE_PUSH_KEY": "XWd87zmGacxfA2kHJOo2AbHJVZnp6ksvOXqoq",
+            "UMENG_APPKEY" : "",
+            "UMENG_MESSAGE_SECRET" : "",
+            "JPUSH_KEY"    : "",
+            "APP_CHANNEL"  : "default",
+            "SIGN_KEY"     : "JU076TFU-C483929E-2BDF8E9F-76TG45LJ"
+    ]
+    weilian= [
+            "applicationId": "com.physical.weilian",
+            "API_SERVER": "https://weilian.spmobileapi.net",
+            "CODE_PUSH_KEY": "XixLu39gFkTjBt07QuXSLI7FGPx16ksvOXqoq",
+            "UMENG_APPKEY" : "5a7041c5f29d983c48000246",
+            "UMENG_MESSAGE_SECRET" : "cf5afd6e2a4d9f60811a69e2b7020098",
+            "JPUSH_KEY"    : "",
+            "APP_CHANNEL"  : "default",
+            "SIGN_KEY"     : "75DCC830-6D4D2EFE-D3D98A52-3AF60F1C"
+    ]
+    bet365sp= [
+            "applicationId": "com.physical.bet365sp",
+            "API_SERVER": "https://bet365sp.spmobileapi.net",
+            "CODE_PUSH_KEY": "XixLu39gFkTjBt07QuXSLI7FGPx16ksvOXqoq",
+            "UMENG_APPKEY" : "5b063564f29d985a560000dd",
+            "UMENG_MESSAGE_SECRET" : "e04030ba9ab3ab28c19f9dc8aa864b95",
+            "JPUSH_KEY"    : "",
+            "APP_CHANNEL"  : "default",
+            "SIGN_KEY"     : "75DCC830-6D4D2EFE-D3D98A52-3AF60F1C"
+    ]
+}

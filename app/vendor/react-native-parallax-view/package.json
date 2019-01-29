@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "react-native-parallax-view@2.0.6",
+      "/Users/wangming/project/physical"
+    ]
+  ],
+  "_from": "react-native-parallax-view@2.0.6",
+  "_id": "react-native-parallax-view@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-feeO23oqCrpsAbmfzoKNOHzsPpM=",
+  "_location": "/react-native-parallax-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-parallax-view@2.0.6",
+    "name": "react-native-parallax-view",
+    "escapedName": "react-native-parallax-view",
+    "rawSpec": "2.0.6",
+    "saveSpec": null,
+    "fetchSpec": "2.0.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-parallax-view/-/react-native-parallax-view-2.0.6.tgz",
+  "_spec": "2.0.6",
+  "_where": "/Users/wangming/project/physical",
+  "author": {
+    "name": "Leland Richardson"
+  },
+  "bugs": {
+    "url": "https://github.com/lelandrichardson/react-native-parallax-view/issues"
+  },
+  "dependencies": {
+    "react-native-scrollable-mixin": "^1.0.1"
+  },
+  "description": "Parallax view for vertical scrollview with a header image and header content",
+  "homepage": "https://github.com/lelandrichardson/react-native-parallax-view",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "parallax"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-parallax-view",
+  "peerDependencies": {
+    "react-native": ">=0.8.0 || 0.8.0-rc || 0.8.0-rc.2 || 0.8.0-rc.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelandrichardson/react-native-parallax-view.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.6"
+}

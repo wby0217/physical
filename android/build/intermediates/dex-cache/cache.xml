@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.4/da08b8cce7bbf903602a25a3a163ae252435795/asm-5.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/asm-5.0.4_f3ff9553852331bec30b310d7676417efb199c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/SocialSDK_QQ_Full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="83a276451f8fa3bf174c2d8e5929d587e9ad1bf3">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/SocialSDK_QQ_Full_c27dccc8500ed046ce5d51f56d3fe4aecb03d516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/5.1/98dfb9ee74d290afce026a262c6297138a0c8ec4/nimbus-jose-jwt-5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98dfb9ee74d290afce026a262c6297138a0c8ec4">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/nimbus-jose-jwt-5.1_03e88564e386230235f8c58a00413f90e73956f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="10bce3308649051968a5a024ca15a2193838eed4">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-react-native-linear-gradient-unspecified_dc09b1c45d46783baf9404805d3e92e4f6e5b829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.meituan.android.walle/payload_reader/1.1.6/8843d9fdc57bca7966d57ff190f941a6aa679499/payload_reader-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8843d9fdc57bca7966d57ff190f941a6aa679499">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/payload_reader-1.1.6_f470a6795f9f55b707cbbffdb401895c6b06676a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.fresco-fbcore-1.3.0_a394759e8fd26bf7b0e61177fe020685afddd564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/umeng_social_shareboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7be7f177446f96efdc498eed08d88bf36e180758">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umeng_social_shareboard_878647773454ef5e2b611df062ac21d04b0bb7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/prov/1.58.0.0/2e2c2f624ed91eb40e690e3596c98439b1b50f2a/prov-1.58.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2e2c2f624ed91eb40e690e3596c98439b1b50f2a">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/prov-1.58.0.0_ad39ed224edca0f0b71928a8936edad9417ff84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/umeng-analytics-7.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="151c7efa4039e48a08423813a553a602ee28666f">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umeng-analytics-7.4.1_c2f53d9779fe6f960f2e220e62a3302689dc3d41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/support-annotations-24.1.1_6c0907b2665c7f262fe0ad81439c7fcbd52bae9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/push/unspecified/jars/libs/umeng-push-3.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="375469c689ebaed71acce2fe0e27e8fed40e7dc2">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umeng-push-3.3.5_3e1d89f4585def2068589072a7df8b8963fd7ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.meituan.android.walle/library/1.1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f0888d257c0efc27e84ee8a8a3caaef0b9c3f21d">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.meituan.android.walle-library-1.1.6_d736b5e3c2ead2f9bccf5c0e05514ef1bb6c57e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/SocialSDK_Sina_Full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7161dccf56b9d687336de8594c0920d55059c5c0">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/SocialSDK_Sina_Full_2314d6bea683347ba96aa077a4ab837a13cf19e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.fresco-drawee-1.3.0_8e4b354ca07ae54eefba513bd34e59565a0410c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-react-native-vector-icons-unspecified_066a1861cbcba17e9c6f1195e9d3ee447b018c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/push/unspecified/jars/libs/alicloud-android-sdk-httpdns-1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d61bb0f23861e5b86d4308a9ed2a4751e95fe03">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/alicloud-android-sdk-httpdns-1.0.7_aa4d2ad7e5d94f5c51fb4d80ffd8ea6a9f731995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/umeng_social_net.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1800e7cb8f672a30f0bf44ed68ec87197b29c607">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umeng_social_net_eaf0436b997997bdea1d4e783db9d731083b09fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/okio-1.13.0_21fd1a0bbb4a4b6c0a8e8bb72c8f96e1b99ec140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/javax.inject-1_897f5b085358c3451bb699b83a1a31a88316975d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/SocialSDK_WeiXin_Full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a94ecd3b925a0dfc7acf898f8d9aa7a44392982e">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/SocialSDK_WeiXin_Full_3a24f5fa8ffdd8acc6dc4fc2fef47b4bdf7a6437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/staticlayout-proxy-1.0_b4a1e75e6c79c78dfa0e0bb9ae062f844a12a180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/umeng-common-1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e134e64fa53fc26c98f5128cdb82f3b8971b399">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umeng-common-1.4.1_3ce2b24b8c4d83318108ac27594a6bb890a4aa00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de31e43a8bbd6962302f47420d45c9778d1ae626">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-react-native-fetch-blob-unspecified_131f0766362b13291138ac01bbfebdbb053a094d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.fresco-imagepipeline-1.3.0_9c28513104edaf94db1056d4146ba7ae0cb29792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/wechat-sdk-android-with-mta-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c166e81e3dac147b2973d0f804e125eb40ea0603">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/wechat-sdk-android-with-mta-1.1.6_ab5a410e7f844ea9f90cd92aa005a964898ad9e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.github.ybq-Android-SpinKit-1.1.0_5f0ad700b92a31c72b76c00429640d8853eee977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.android.support-support-v4-23.4.0_93cb884769a1ad91c4646cb9f80288126fd0deff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/jcore-react-native/unspecified/jars/libs/jcore-android-1.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3fb59bd7cd5b0e025f23a2fdf1644893bd779ca3">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/jcore-android-1.1.7_d2a605aab28f0abededd6ac59f2dd05e09d5f9a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1a4a47c44b68ea5c20e370d37f1779c57211aa68">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/utdid4all-1.1.5.3_proguard_bf2f4f3523b3dc6ec72981347e66fd38f5af6ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/core/1.58.0.0/e08789f8f1e74f155db8b69c3575b5cb213c156c/core-1.58.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e08789f8f1e74f155db8b69c3575b5cb213c156c">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/core-1.58.0.0_4810f5bcde1919d4ac0e0f832563f8c60b5c4abe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/bolts-tasks-1.4.0_65afe43a063282649b6f1cf7322b7bb1322d0c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/okhttp-urlconnection-3.6.0_f814d4d734d66d5bb716fa44e700fadc4199a7e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3295f7a3662a4c6205e87498cf6e099016b10c57">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-react-native-code-push-unspecified_42f07be0f71a3f535d7e0eb639908ad79e9420b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/umeng_social_api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9177904c59537f746c328c61ad991aed392953f">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umeng_social_api_15d1fc68e4ebd642084319d2c4a80becbc4297fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/react-native-spinkit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47b99616af6817e323d7b404b2f1922ca22228ad">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-react-native-spinkit-unspecified_6104a0fd4334f23f1659fb1205ac4d41853dc621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c592b500269bfde36096641b01238a8350f8aa31">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/accessors-smart-1.2_b89c8bf667d30d7f7231820b82f1d11fe1c5db26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.fresco-fresco-1.3.0_9997482eecd31d3670018b429d6464372f062f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/hamcrest-core-1.3_fd269d42d47bb5f46a5fc911fa12f2d01435e467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/internal_impl-23.4.0_d6aa4289a746c735947bf3cb49e8af8f77faf9e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1f157ee1dc91c88e9f6b3d2b816074a50e0b4aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/umeng_shareboard_widget.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d94f96e4c47fe288e1ea25b1a9975aa6407dd35f">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umeng_shareboard_widget_b9d93843c65de1f41c4866fe541173ebae3723a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/react-native-network-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6eb22c35a9e8bf9733907ea5cf0630b931cf44de">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-react-native-network-info-unspecified_3818c2224be2be6a1499e1e35c90eada50185095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="007396407491352ce4fa30de92efb158adb76b5b">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/json-smart-2.3_4ec127b33f1e07699675ced41d67063a57ecfbf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.android.support-support-vector-drawable-23.4.0_3aee367610187a7ccd9899735e2b7672642837ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.react-react-native-0.51.0_b57b3a9d23d77b1eb66f01da77134d96495fa531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/infer-annotations-4.0_3040406f2dde41899541be8bf62a215b2d20c002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.soloader-soloader-0.1.0_6d536d46478ab8ddcd1d45c13fd0f12d58fe2c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/open_sdk_r5781.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85f474ddea56aff6373e48425b1bfe64d3fd2824">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/open_sdk_r5781_1e43194d4fff6ae3b0433d4e9f6a6b51bbeb3b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/junit-4.12_fa13e8d1a44f6c8a0fba820e587c746b66b25809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/jsr305-3.0.0_83ba63ca3fc8cbd275a65ac95419f31902f527ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="89d7f533fa75e3e8776f0956891c04ce17856d67">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-umeng-unspecified_5ebddbc68585e87f3df612a49884f487ae957390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.android.support-appcompat-v7-23.4.0_bc44fb39e50e5acc86f6d8bf1978f40d80022d8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/jpush-react-native/unspecified/jars/libs/jpush-android-3.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf2cdfaa533441ae0faf4c1da12bd31f600815a7">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/jpush-android-3.0.9_ca94b0f6bd83748afe8ecc469774b452628d2962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/umerror_android_1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="149005c3f97d9d1da77cfd130b27680bf545d01a">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umerror_android_1.0.0_6c87347a3a3fbd1f7bdef750c29de2ef40f5f9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/jcore-react-native/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98e7b1d6061b35a14c0306fcbd1362436201ab86">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-jcore-react-native-unspecified_57b500a1745656f38e95f50f868129043fa55f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.github.stephenc.jcip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/jcip-annotations-1.0-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ef31541dd28ae2cefdd17c7ebf352d93e9058c63">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/jcip-annotations-1.0-1_8bba47e3842876188aab6be49ea372920ff66dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_cfd340cc4794d2e496d3c7b0645bb395f6ea8bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/okhttp-3.6.0_52f43f7f5ef9e9f7244424bf970c342ff13354e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.facebook.fresco-imagepipeline-base-1.3.0_be814cafd61d2c17b6484582ce642922bdc84f9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/com.android.support-animated-vector-drawable-23.4.0_bf704799aebf883bff223c4dac48366f1f353094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/umeng_social_tool.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d604378b8ffe1724d2b656ff6bc7b68207e7110">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/umeng_social_tool_6f1c96d03da3efdbc800b530dc01a985cd9cb503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/umeng/unspecified/jars/libs/weiboSDKCore_3.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2bc78160e85f56f81c91271dfa44bd8c8293cb94">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/weiboSDKCore_3.1.4_241b45d12cb00057009bb2cd527a882700f4e813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a908a9ecf77c0bb9ef606b0aa7a0c0dc0612eb02">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-push-unspecified_ab4e0dc8f8f4ec7bd15e35e8596cfc6d9c8da3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan/MyWork/physical/android/app/build/intermediates/exploded-aar/physical/jpush-react-native/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6a6008b589fedf70c1cccc76a758f7f6382bc33">
+        <dex dex="/Users/bryan/MyWork/physical/android/app/build/intermediates/pre-dexed/bet365sp/release/physical-jpush-react-native-unspecified_19d6fae855be0492cd4af46163eb6f0037e79369.jar" />
+    </item>
+
+</items>

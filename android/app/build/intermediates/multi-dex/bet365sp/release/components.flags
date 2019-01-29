@@ -1,0 +1,37 @@
+-injars /Users/bryan/MyWork/physical/android/app/build/intermediates/transforms/jarMerging/bet365sp/release/jars/1/1f/combined.jar
+-outjars /Users/bryan/MyWork/physical/android/app/build/intermediates/multi-dex/bet365sp/release/componentClasses.jar
+
+-libraryjars /Users/bryan/Library/Android/sdk/build-tools/25.0.1/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/bryan/MyWork/physical/android/app/build/intermediates/multi-dex/bet365sp/release/components.flags
+
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/bryan/MyWork/physical/android/app/src/main/shaders"/></dataSet><dataSet config="weilian"><source path="/Users/bryan/MyWork/physical/android/app/src/weilian/shaders"/></dataSet><dataSet config="release"><source path="/Users/bryan/MyWork/physical/android/app/src/release/shaders"/></dataSet><dataSet config="weilianRelease"><source path="/Users/bryan/MyWork/physical/android/app/src/weilianRelease/shaders"/></dataSet></merger>
